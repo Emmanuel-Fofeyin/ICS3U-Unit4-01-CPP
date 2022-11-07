@@ -1,6 +1,6 @@
-// Copyright (c) 2022 Kyanh Pham
+// Copyright (c) 2022 Emmanuel Fofeyin
 //
-// Created by: Kyanh Pham
+// Created by: Emmanuel Fofeyin
 // Created on: Oct 2022
 // This program uses while loops
 
