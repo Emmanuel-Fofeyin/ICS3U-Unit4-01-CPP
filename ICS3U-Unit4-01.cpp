@@ -38,7 +38,7 @@ int main() {
         }
     } catch (std::invalid_argument) {
         std::cout << "" << positiveString
-         << " is not a valid input." << std::endl;
+         << ", is not a valid input." << std::endl;
     }
 
     std::cout << "\nDone.";
